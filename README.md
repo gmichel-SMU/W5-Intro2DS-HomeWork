@@ -6,5 +6,5 @@ This project will analyze the housing sales data from the Rolling Housing Sales 
 
 The data URL is: http://www1.nyc.gov/home/search/index.page?search-terms=Rolling+sales+update
 
-Th eproject will examine the data for ouliers and any unclean data.
+The project will examine the data for ouliers and any unclean data.
 
